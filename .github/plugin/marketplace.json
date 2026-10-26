@@ -1,0 +1,13 @@
+{
+  "name": "synthetic-private-market",
+  "owner": {"name": "Synthetic Fixture Maintainers"},
+  "metadata": {"version": "1.0.0", "description": "Synthetic marketplace reproduction"},
+  "plugins": [
+    {
+      "name": "private-marker",
+      "description": "Synthetic marketplace verification skill",
+      "version": "1.0.0",
+      "source": "./plugins/private-marker"
+    }
+  ]
+}
